@@ -1,10 +1,16 @@
 _repo: Grundri0xdf-der-menschlichen-Erblichkeitslehre-und-Rassenhygiene-22-Menschliche-Auslese-und-R__49775
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49775-h/images/cover.jpg
 creator:
   author:
     agent_name: Lenz, Fritz
     gutenberg_agent_id: '45537'
     url: http://www.gutenberg.org/2009/agents/45537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49775#Grundri0xdf-der-menschlichen-Erblichkeitslehre-und-Rassenhygiene-22-Menschliche-Auslese-und-R_
 gutenberg_issued: '2015-08-24'
 gutenberg_type: Text
 identifiers:
